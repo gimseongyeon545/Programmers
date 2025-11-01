@@ -1,0 +1,3 @@
+- https://school.programmers.co.kr/learn/courses/30/lessons/12982
+- `itertools.combinations` 시간초과 해결법
+- sort 후 누적합
